@@ -42,7 +42,7 @@ on:
           - 'Clash'
           - 'Lite'
       Tempoary_IP:
-        description: '固件 IP 地址 [可选]'
+        description: '192.168.31.2'
         default: '192.168.31.2'
       UPLOAD_RELEASES:
         description: '上传固件到 Releases'
